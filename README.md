@@ -33,4 +33,4 @@ and omit cells for which a given datasheet does not provide information.
 
 Please cite our paper [1] if you use this data or otherwise find it helpful.
 
-\[1\] Minesh Patel, Taha Shahroodi, Aditya Manglik, A. Giray Yaglikci, Ataberk Olgun, Haocong Luo, and Onur Mutlu, "A Case for Transparent Reliability in DRAM Systems", arXiv:2204.10378, 2022.
+\[1\] [Minesh Patel, Taha Shahroodi, Aditya Manglik, A. Giray Yaglikci, Ataberk Olgun, Haocong Luo, and Onur Mutlu, "A Case for Transparent Reliability in DRAM Systems", arXiv:2204.10378, 2022.](https://arxiv.org/abs/2204.10378)
